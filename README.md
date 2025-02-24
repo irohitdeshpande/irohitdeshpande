@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hey there! I'm Rohit Deshpande</h1>
 
 <p align="center">
-🚀 <b>Pre-Final Year Computer Engineering Student</b> | <b>Aspiring Software Developer</b> <br>
-💡 Passionate about <b>Full-Stack Development, AI/ML, and Data Science</b> <br>
+🚀 <b>Pre-Final Year Computer Engineering Student</b> | <b>Aspiring Software Engineer and Data Analyst</b> <br>
+💡 Passionate about <b>Full-Stack Development, AI/ML, Data Science & Understanding Business Management</b> <br>
 🎯 Currently working on <b>Sentiment Analysis & Retail Sales Prediction Models</b>  
 </p>
 
