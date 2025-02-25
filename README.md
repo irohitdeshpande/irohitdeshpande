@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/irohitdeshpande?theme=dark&font=Monospace&ext=heatmap" alt="Leetcode Stats">
+  <img src="https://leetcard.jacoblin.cool/irohitdeshpande?theme=dark&font=Monospace" alt="Leetcode Stats">
 </p>
 
 ---
