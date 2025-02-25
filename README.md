@@ -63,7 +63,6 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=irohitdeshpande&theme=tokyonight" alt="GitHub Streak">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irohitdeshpande&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
 
 <p align="center">
