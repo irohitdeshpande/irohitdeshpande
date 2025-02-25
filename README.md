@@ -60,9 +60,10 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=irohitdeshpande&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irohitdeshpande&theme=tokyonight" alt="GitHub Streak" height="200">
+<!--   <img src="https://github-readme-streak-stats.vercel.app?user=irohitdeshpande&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200"> -->
   <img src="https://leetcard.jacoblin.cool/irohitdeshpande?theme=dark&border=3&border_color=ffffff&background=004687&text=70a5fd&font=Monospace" alt="Leetcode Stats" height="200">
 </div>
+
 
 ---
 
