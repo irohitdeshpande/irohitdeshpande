@@ -56,7 +56,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=irohitdeshpande&show_icons=true&theme=tokyonight" alt="GitHub Stats">
@@ -65,10 +65,6 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irohitdeshpande&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
-
----
-
-## 🚀 LeetCode Stats  
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/irohitdeshpande?theme=dark&font=Monospace&ext=heatmap" alt="Leetcode Stats">
