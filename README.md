@@ -3,7 +3,7 @@
 
 <p align="left">
 🚀 <b>Aspiring Software Engineer and Data Analyst</b> <br>
-🎯 Currently working on <b>IntervAI: Mock Interviwer using Gemini</b>  
+🎯 Currently working on <b>IntervAI: Mock Interviewer using Gemini</b>  
 </p>
 
 ## 💡 Interests
