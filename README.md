@@ -1,9 +1,17 @@
 <h1 align="center">👋 Hey there! I'm Rohit Deshpande</h1>
+<h3 align="center">Pre-Final Year Student of Computer Engineering at KJSCE</h3>
 
-<p align="center">
-🚀 <b>Pre-Final Year Computer Engineering Student</b> | <b>Aspiring Software Engineer and Data Analyst</b> <br>
-💡 Passionate about <b>Full-Stack Development, AI/ML, Data Science & Understanding Business Management</b> <br>
-🎯 Currently working on <b>Sentiment Analysis & Retail Sales Prediction Models</b>  
+<p align="left">
+  💡 **Interests:** <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;• Data Science <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;• Web Development <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;• AI/ML <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;• Business Understanding
+</p>
+
+<p align="left">
+🚀 <b>Aspiring Software Engineer and Data Analyst</b> <br>
+🎯 Currently working on <b>IntervAI: Mock Interviwer using Gemini</b>  
 </p>
 
 ---
@@ -24,6 +32,9 @@
   </a>
   <a href="https://www.instagram.com/irohitdeshpande">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.kaggle.com/rohitdeshpande18">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
   </a>
 </p>
 
@@ -60,10 +71,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=irohitdeshpande&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200">
-<!--   <img src="https://github-readme-streak-stats.vercel.app?user=irohitdeshpande&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200"> -->
+  <img src="https://github-readme-streak-stats.vercel.app?user=irohitdeshpande&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200"> 
   <img src="https://leetcard.jacoblin.cool/irohitdeshpande?theme=dark&border=3&border_color=ffffff&background=004687&text=70a5fd&font=Monospace" alt="Leetcode Stats" height="200">
 </div>
-
 
 ---
 
@@ -84,4 +94,4 @@
 ---
 
 <h3 align="center">💡 "Let's build something amazing together!"</h3>  
-<h3 align="center">✨ Feel free to connect with me! 🚀</h3>
+<h3 align="center">✨ Feel free to connect with me! 🚀</h3> 
