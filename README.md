@@ -1,7 +1,10 @@
 <h1 align="center">👋 Hey there! I'm Rohit Deshpande</h1>
 <h3 align="center">Pre-Final Year Student of Computer Engineering at KJSCE</h3>
 
-
+<p align="left">
+🚀 <b>Aspiring Software Engineer and Data Analyst</b> <br>
+🎯 Currently working on <b>IntervAI: Mock Interviwer using Gemini</b>  
+</p>
 
 ## 💡 Interests
 <p align="left">
@@ -9,11 +12,6 @@
   &nbsp;&nbsp;&nbsp;&nbsp;• Web Development <br>
   &nbsp;&nbsp;&nbsp;&nbsp;• AI/ML <br>
   &nbsp;&nbsp;&nbsp;&nbsp;• Business Understanding
-</p>
-
-<p align="left">
-🚀 <b>Aspiring Software Engineer and Data Analyst</b> <br>
-🎯 Currently working on <b>IntervAI: Mock Interviwer using Gemini</b>  
 </p>
 
 ---
