@@ -1,8 +1,10 @@
 <h1 align="center">👋 Hey there! I'm Rohit Deshpande</h1>
 <h3 align="center">Pre-Final Year Student of Computer Engineering at KJSCE</h3>
+---
 
+
+## 💡 Interests
 <p align="left">
-## 💡 Interests <br>
   &nbsp;&nbsp;&nbsp;&nbsp;• Data Science <br>
   &nbsp;&nbsp;&nbsp;&nbsp;• Web Development <br>
   &nbsp;&nbsp;&nbsp;&nbsp;• AI/ML <br>
@@ -70,9 +72,9 @@
 ## 📊 Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irohitdeshpande&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200">
-  <img src="https://api.rigle.co/github-streak/stats/irohitdeshpande" alt="GitHub Streak" height="200"> 
-  <img src="https://leetcard.jacoblin.cool/irohitdeshpande?theme=dark&border=3&border_color=ffffff&background=004687&text=70a5fd&font=Monospace" alt="Leetcode Stats" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=irohitdeshpande&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.vercel.app?user=irohitdeshpande&theme=tokyonight&hide_border=true" alt="GitHub Streak"> 
+  <img src="https://leetcard.jacoblin.cool/irohitdeshpande?theme=dark&border=3&border_color=ffffff&background=004687&text=70a5fd&font=Monospace" alt="Leetcode Stats">
 </div>
 
 ---
