@@ -77,10 +77,10 @@
     </tr>
     <tr>
       <td width="600">
-        <img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irohitdeshpande&layout=compact&hide_border=true&card_width=500&theme=transparent" alt="Top Languages">
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=irohitdeshpande&theme=transparent&hide_border=true&card_width=600&card_height=200" alt="GitHub Streak" /></a>
       </td>
       <td width="600">
-        <img width="600" src="https://leetcard.jacoblin.cool/irohitdeshpande?theme=transparent&background=00000000&text=70a5fd&font=Monospace" alt="LeetCode Stats">
+        <img width="600" src="https://leetcard.jacoblin.cool/irohitdeshpande?theme=dark&font=Cousine" alt="LeetCode Stats">
       </td>
     </tr>
   </table>
