@@ -17,26 +17,26 @@
 ---
 
 ## 🌐 Connect with Me  
-<p align="center">
+<div align="center">
   <a href="mailto:rohitsdeshpande4@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge">
   </a>
   <a href="https://www.linkedin.com/in/irohitdeshpande">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge">
   </a>
   <a href="https://github.com/irohitdeshpande">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge">
   </a>
   <a href="https://leetcode.com/irohitdeshpande">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge">
   </a>
   <a href="https://www.instagram.com/irohitdeshpande">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge">
   </a>
   <a href="https://www.kaggle.com/rohitdeshpande18">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge">
   </a>
-</p>
+</div>
 
 ---
 
