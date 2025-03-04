@@ -64,27 +64,32 @@
 
 ---
 
-## 📊 Stats  
-<div align="center">
-  <table width="1200">
-    <tr>
-      <td width="600">
-        <img width="600" src="https://github-readme-stats.vercel.app/api?username=irohitdeshpande&hide_border=true&show_icons=true&theme=transparent" alt="GitHub Stats">
-      </td>
-      <td width="600">
-        <img width="600" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irohitdeshpande&hide_border=true&theme=transparent" alt="GitHub Profile Summary">
-      </td>
-    </tr>
-    <tr>
-      <td width="600">
-        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=irohitdeshpande&theme=transparent&hide_border=true&card_width=600&card_height=200" alt="GitHub Streak" /></a>
-      </td>
-      <td width="600">
-        <img width="600" src="https://leetcard.jacoblin.cool/irohitdeshpande?theme=dark&font=Cousine" alt="LeetCode Stats">
-      </td>
-    </tr>
-  </table>
+## 📊 Stats   
+<div align="center">   
+  <table width="1200">     
+    <tr>       
+      <td>         
+        <img width="600" src="https://github-readme-stats.vercel.app/api?username=irohitdeshpande&hide_border=true&show_icons=true&theme=dark" alt="GitHub Stats">       
+      </td>       
+      <td>         
+        <img width="600" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irohitdeshpande&hide_border=true&theme=dark" alt="GitHub Profile Summary">       
+      </td>     
+    </tr>     
+    <tr>       
+      <td>         
+        <a href="https://git.io/streak-stats">
+          <img src="https://streak-stats.demolab.com?user=irohitdeshpande&theme=dark&hide_border=true&card_width=600&card_height=200" alt="GitHub Streak" />
+        </a>       
+      </td>       
+      <td>         
+        <a href="https://leetcode.com/u/irohitdeshpande/" target="_blank">
+          <img width="600" src="https://leetcard.jacoblin.cool/irohitdeshpande?theme=dark&font=Cousine" alt="LeetCode Stats">
+        </a>       
+      </td>     
+    </tr>   
+  </table> 
 </div>
+
 
 ---
 
