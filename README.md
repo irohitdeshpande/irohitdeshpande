@@ -1,10 +1,12 @@
-# 👋 Hey there! I'm Rohit Deshpande  
-
-<div align="center">
-  <h2>Pre-Final Year Student of Computer Engineering at KJSCE</h2>
-  <h3>🚀 Aspiring Software Engineer and Data Analyst</h3>
-  <h3>Currently working on <b>IntervAI: Mock Interviewer using Gemini</b></h3>
+<div align="center">  
+  <h1>👋 Hey there! I'm Rohit Deshpande</h1>  
 </div>
+
+---
+
+* Pre-Final Year Student of Computer Engineering at KJSCE
+* Aspiring Software Engineer and Data Analyst
+* Currently working on <b>IntervAI: Mock Interviewer using Gemini</b></p>
 
 ---
 
@@ -27,7 +29,7 @@ Data Science | Web & App Dev | AI/ML | Business Understanding
 
 ## ⚡ Tech Stack  
 
-- **Languages:** Python, , Java, C++, JavaScript, TypeScript
+- **Languages:** Python, Java, C++, JavaScript, TypeScript
 - **Frontend:** React, Next.js  
 - **Backend:** Node.js, Express.js  
 - **Databases:** MongoDB, XAMPP, PostgreSQL  
