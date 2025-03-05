@@ -42,9 +42,9 @@ Data Science | Web & App Dev | AI/ML | Business Understanding
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=irohitdeshpande&hide_border=true&show_icons=true&theme=default" width="300" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=irohitdeshpande&hide_border=true&show_icons=true&theme=default" width="350" height="150" />
 
-<img src="https://leetcard.jacoblin.cool/irohitdeshpande?theme=light&font=Cousine" width="300" height="150" />
+<img src="https://leetcard.jacoblin.cool/irohitdeshpande?theme=light&font=Cousine" width="365" height="150" />
 
 
 </div>
