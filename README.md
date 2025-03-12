@@ -29,12 +29,26 @@ Data Science | Web & App Dev | AI/ML | Business Understanding
 
 ## ⚡ Tech Stack  
 
-- **Languages:** Python, Java, C++, JavaScript, TypeScript
-- **Frontend:** React, Next.js  
-- **Backend:** Node.js, Express.js  
-- **Databases:** MongoDB, XAMPP, PostgreSQL  
-- **Cloud & Tools:** Google Cloud, Git, Streamlit  
-- **AI/ML:** NumPy, Pandas, Scikit-learn, Jupyter, Gemini AI  
+![Python](https://img.shields.io/badge/PYTHON-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/JAVA-black?style=flat-square&logo=java)
+![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-black?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/REACT-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/NEXT.JS-black?style=flat-square&logo=next.js)
+![Node.js](https://img.shields.io/badge/NODE.JS-black?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/EXPRESS.JS-black?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/MONGODB-black?style=flat-square&logo=mongodb)
+![XAMPP](https://img.shields.io/badge/XAMPP-black?style=flat-square&logo=xampp)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-black?style=flat-square&logo=postgresql)
+![Google Cloud](https://img.shields.io/badge/GOOGLE_CLOUD-black?style=flat-square&logo=googlecloud)
+![Git](https://img.shields.io/badge/GIT-black?style=flat-square&logo=git)
+![Streamlit](https://img.shields.io/badge/STREAMLIT-black?style=flat-square&logo=streamlit)
+![NumPy](https://img.shields.io/badge/NUMPY-black?style=flat-square&logo=numpy)
+![Pandas](https://img.shields.io/badge/PANDAS-black?style=flat-square&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/SCIKIT--LEARN-black?style=flat-square&logo=scikit-learn)
+![Jupyter](https://img.shields.io/badge/JUPYTER-black?style=flat-square&logo=jupyter)
+![Gemini AI](https://img.shields.io/badge/GEMINI_AI-black?style=flat-square&logo=google)
 
 ---
 
