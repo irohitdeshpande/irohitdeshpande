@@ -66,22 +66,6 @@ Data Science | Web & App Dev | AI/ML | Business Understanding
 
 </div>
 
-
-
-## 🔥 Notable Projects  
-
-### [📝 Sentiment Analysis of Tweets](https://github.com/irohitdeshpande/sentiment-analysis-text)  
-- Built a Logistic Regression model for sentiment classification with **75%+ accuracy**.  
-- Developed an interactive **Streamlit web app** for real-time sentiment analysis.  
-
-### [📄 Resume ATS Optimizer](https://github.com/irohitdeshpande/Resume-ATS-Optimizer)  
-- **AI-powered resume analysis tool** using Google Gemini API & PyPDF2.  
-- Provides insights to **improve ATS compatibility**.  
-
-### [🧠 Quizify](https://github.com/irohitdeshpande/quizappproject)  
-- A **full-stack MERN quiz application** with AI-generated questions.  
-- Includes **customizable scoring & admin dashboards**.  
-
 ---
 
 <div align="center"><b>
