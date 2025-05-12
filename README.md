@@ -4,8 +4,7 @@
 
 
 * Pre-Final Year Student of Computer Engineering at KJSCE
-* Aspiring Software Engineer and Data Analyst
-* Currently working on <b>IntervAI: Mock Interviewer using Gemini</b></p>
+* Aspiring Software Engineer, AI/ML and Data Science Enthusiast
 
 ---
 
