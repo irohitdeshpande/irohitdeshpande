@@ -5,7 +5,7 @@
 
 * Pre-Final Year Student of Computer Engineering at KJSCE
 * Aspiring Software Engineer, AI/ML and Data Science Enthusiast
-* Currently Intern @Arcon TechSolutions
+* Ex- SWE Intern @Arcon TechSolutions
 
 ---
 
