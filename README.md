@@ -3,7 +3,7 @@
 </div>
 
 
-* Pre-Final Year Student of Computer Engineering at KJSCE
+* Final Year Student of Computer Engineering at KJSCE
 * Aspiring Software Engineer, AI/ML and Data Science Enthusiast
 * Check out my website - [Link](https://portfolio-rohit-deshpande.vercel.app)
 * Ex- SWE Intern @Arcon TechSolutions
